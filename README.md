@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemasri0502" alt="hemasri0502" /></a> </p>
 
-- 🔭 I’m currently working on **Epilepsy Detection using ML algorithms**
+- 🔭 I’m currently working on **AI-enhanced Insights into Drug-induced Liver Outcomes**
 
 - 🌱 I’m currently learning **Frontend and backend framework and libraries**
 
